@@ -3,7 +3,7 @@ go:
   - 1.11.x
 
 install: 
-  - go get github.com/gohugoio/hugo
+  - go get GitHub.com/gohugoio/hugo
 
 script: 
   - mkdir -p themes/beautifulhugo && git clone https://github.com/halogenica/beautifulhugo.git themes/beautifulhugo
