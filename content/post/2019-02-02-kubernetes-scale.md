@@ -9,7 +9,7 @@ Scaling my kubernetes deployment
 <!--more-->
 
 ```sh
-    $ kubectl scale deployments/kubernetes-bootcamp --replicas=4
+    $ kubectl scale deployments/kubernetes-bootcamp --replicas=3
 ```
 
 Now, check wheter it is scaled up:
